@@ -2,12 +2,17 @@
 
 Etapas para rodar o projeto
 
-## extensões que precisam ser instaladas:
+## Extensões que precisam ser instaladas:
   npm install redux
+  
   npm install react-redux
+  
   npm install redux-thunk
+  
   npm install redux-devtools-extension
+  
   npm install styled-components
+  
   npm install styled-icons
   
  ##Etapas do projeto:
