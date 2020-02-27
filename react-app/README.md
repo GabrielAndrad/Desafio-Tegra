@@ -1,6 +1,6 @@
 ## Desafio Tegra
 
-Etapas para rodar o projeto
+Desafio com o objetivo  de Desenvolver uma Single Page Application (SPA) para a busca de voos.​
 
 ## Extensões que precisam ser instaladas:
   npm install redux
@@ -14,8 +14,8 @@ Etapas para rodar o projeto
   npm install styled-components
   
   npm install styled-icons
-  
- ##Etapas do projeto:
+
+## Etapas do projeto:
  
  1- A api de aeroportos foi consumida a partir da action getAirport do reducer airport.ts, atualizando o state airport.
  
