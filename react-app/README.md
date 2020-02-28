@@ -21,7 +21,7 @@ Desafio com o objetivo  de Desenvolver uma Single Page Application (SPA) para a 
  
  2- Logo após, no componente Bar dentro do componente Main, os dados referentes a api de aeroportos foram colocados dentro
  de dois selects, o primeiro para retornar o aeroporto de origem e o segundo para retornar o aeroporto de destino.
- Ainda dentro do componente Bar, também foi disponibilizada as datas disponiveis dentro da api.
+ Ainda dentro do componente Bar, também foram disponibilizadas as datas disponiveis dentro da api.
  
  3- A api de voos foi consumida a partir da action getFlights do reducer availableFlights.ts, recebendo como parametro
  os 3 dados solicitados pelos select do componente Bar, e atualizando o state Flights com os dados retornados referentes aos
